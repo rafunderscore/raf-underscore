@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm rafa</h1>
-<h3 align="center">A passionate software developer, game developer and graphics designer</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=raf-underscore" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raf-underscore" />
-</a>
+<p align="center" text-align="left">
+  <samp >Hi 👋, I'm rafa</samp><br>
+  <samp>
+    💻 Software Developer 
+    🎮 Game Developer 
+    📏 Graphics Designer  
+  <br> <br>
+  <img  src="https://github-readme-stats.vercel.app/api?username=raf-underscore&theme=dark&hide_border=true" />
+  <br>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raf-underscore&theme=dark&layout=compact&hide_border=true&card_width=445"/>
+</p>
+
+
