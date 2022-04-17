@@ -9,12 +9,12 @@
 	</h4>
 </p>
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=raf-underscore&theme=dark&hide_border=true" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=raf-underscore&theme=github_dark&hide_border=true" />
 </p>
 <p align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raf-underscore&theme=dark&layout=compact&hide_border=true&card_width=445"/>
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raf-underscore&theme=github_dark&layout=compact&hide_border=true&card_width=445"/>
 </p>
 <p align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=raf_underscore&theme=dark&hide_border=true&card_width=445"/>
+	<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=raf_underscore&theme=github_dark&hide_border=true&card_width=445"/>
 </p>
  
