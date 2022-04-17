@@ -15,6 +15,6 @@
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raf-underscore&theme=dark&layout=compact&hide_border=true&card_width=445"/>
 </p>
 <p align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=raf-underscore&theme=dark&layout=compact&hide_border=true&card_width=445"/>
+	<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=raf_underscore&theme=dark&layout=compact&hide_border=true&card_width=445"/>
 </p>
  
