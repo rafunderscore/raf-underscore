@@ -8,7 +8,7 @@
     💻 Software Developer 
     🎮 Game Developer 
     📏 Graphics Designer <br>
-	sand everything in between
+	and everything in between
 	</h4>
 </p>
 <p align="center">
