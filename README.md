@@ -15,12 +15,12 @@ Dabbling in all sorts of areas, **game development**, **web development**, and m
 It's the **joy** of **problem solving** that keeps them going. In their spare time, you can find them, gaming, or excelling in their sporting activities such as football and athletics.
 
 
-
 > Sponsorships would help to fund my college fees that I am currently paying for. This would help me to have more free time to ship more and more products for free without worry. 
 
 
 #### ⭐ Releases
  
+- [Social Media Frameworks](https://www.producthunt.com/posts/social-media-framework-for-figma?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-social-media-framework-for-figma) A Figma Template for creating social media posts rapidly. [ #10 Product of The Day](https://www.producthunt.com/posts/social-media-framework-for-figma?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-social-media-framework-for-figma)
 - [Unite](https://github.com/raf-underscore/unite) Unites all the browser functions and actions you would ever need
 - [Paths](https://github.com/raf-underscore/paths) Extension for finding shortcuts for popular apps and websites
 - [Loadit](https://github.com/raf-underscore/loadit) Rapidly download Reddit images in a single click
@@ -32,11 +32,11 @@ It's the **joy** of **problem solving** that keeps them going. In their spare ti
 
 #### ⚒️ Work In Progress
 
-- [Cyberlight Fusionzone](https://github.com/raf-underscore/cyberlight-fusionzone) Unreal Engine 5 hack and slash game, using various technical skills
+- [Exacto](https://github.com/raf-underscore/exacto) A comprehensive framework for creating social media posts that works beautifully on all platforms, all in Figma 📸
 
 #### 🤔 Research
 
 - [Unity Physics](https://github.com/raf-underscore/unity-physics-research) Deep dive into Unity's 2D physics engine
 
 #
-You can also subscribe to my [newsletter](https://www.getrevue.co/profile/RaphaelS) for updates on my journey. I am always available on all my social media platforms, so shoot me a message if you have any queries ❤️‍🔥
+I am always available on all my social media platforms, so shoot me a message if you have any queries ❤️‍🔥
