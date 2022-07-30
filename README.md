@@ -20,7 +20,7 @@ It's the **joy** of **problem solving** that keeps them going. In their spare ti
 
 #### ⭐ Releases
  
-- [Social Media Frameworks](https://www.producthunt.com/posts/social-media-framework-for-figma?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-social-media-framework-for-figma) A Figma Template for creating social media posts rapidly. [ #10 Product of The Day](https://www.producthunt.com/posts/social-media-framework-for-figma?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-social-media-framework-for-figma)
+- [Social Media Frameworks](https://www.producthunt.com/posts/social-media-framework-for-figma?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-social-media-framework-for-figma) A Figma Template for creating social media posts rapidly [(#10 Product of The Day)](https://www.producthunt.com/posts/social-media-framework-for-figma?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-social-media-framework-for-figma)
 - [Unite](https://github.com/raf-underscore/unite) Unites all the browser functions and actions you would ever need
 - [Paths](https://github.com/raf-underscore/paths) Extension for finding shortcuts for popular apps and websites
 - [Loadit](https://github.com/raf-underscore/loadit) Rapidly download Reddit images in a single click
