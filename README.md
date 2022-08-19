@@ -2,6 +2,7 @@
 [<img src="https://user-images.githubusercontent.com/52125687/178482934-d1822af3-aeba-4403-b179-68c737951854.png"  >](https://www.instagram.com/rafunderscore/)
 [<img src="https://user-images.githubusercontent.com/52125687/178482936-e477e381-938e-4a45-8cd1-7022f5596817.png"  >](https://linktr.ee/raf_underscore)
 [<img src="https://user-images.githubusercontent.com/52125687/178482938-319c8126-e0e2-4abc-a6a4-efafb0b1b0f7.png"  >](https://rafunderscore.vercel.app/)
+
 #
 
 🤙
@@ -14,29 +15,30 @@ Dabbling in all sorts of areas, **game development**, **web development**, and m
 
 It's the **joy** of **problem solving** that keeps them going. In their spare time, you can find them, gaming, or excelling in their sporting activities such as football and athletics.
 
-
-> Sponsorships would help to fund my college fees that I am currently paying for. This would help me to have more free time to ship more and more products for free without worry. 
-
+> Sponsorships help to fund my college fees that I am currently paying for. This would help me to have more free time to ship more and more products for free without worry. 
 
 #### ⭐ Releases
  
+- [Exacto](https://www.producthunt.com/posts/exacto-for-figma) - Rapidly create social media frames right in Figma [(#8 Product of The Day | 100+ Upvotes | 1,000+ Users)](https://www.producthunt.com/posts/exacto-for-figma)
+- [Easier Gradients](https://www.producthunt.com/posts/easier-gradients-for-figma) - Makes working with gradients in Figma, way easier [(1,500+ Figma Users)](https://www.figma.com/community/plugin/1137005439156522237/Easier-Gradients)
 - [Social Media Frameworks](https://www.producthunt.com/posts/social-media-framework-for-figma?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-social-media-framework-for-figma) A Figma Template for creating social media posts rapidly [(#10 Product of The Day | 100+ Upvotes)](https://www.producthunt.com/posts/social-media-framework-for-figma?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-social-media-framework-for-figma)
-- [Unite](https://github.com/raf-underscore/unite) Unites all the browser functions and actions you would ever need
-- [Paths](https://github.com/raf-underscore/paths) Extension for finding shortcuts for popular apps and websites
-- [Loadit](https://github.com/raf-underscore/loadit) Rapidly download Reddit images in a single click
-- [Complete Readme](https://twitter.com/raf_underscore) For anyone who does not want the hassle of making a good looking readme page
-- [Rogue](https://github.com/raf-underscore/rogue) C++ CLI game which implements object orientated programming to create an optimized and fully functional rogue game
-- [Datafire Evorush](https://github.com/raf-underscore/datafire-evorush) Virtual Reality FPS Game, used to show of technical skill with vr products
-- [Dreamfire](https://github.com/raf-underscore/dreamfire) 2D Platformer Game, physics based with a full story and intricate levels
-- [Chromashock](https://github.com/raf-underscore/chromashock) Procedurally generated 2D Roguelike shooter game. Utilizes various procedural algorithms to create a unique and challenging experience
+- [Unite](https://github.com/raf-underscore/unite) - Unites all the browser functions and actions you would ever need
+- [Paths](https://github.com/raf-underscore/paths) - Extension for finding shortcuts for popular apps and websites
+- [Loadit](https://github.com/raf-underscore/loadit) - Rapidly download Reddit images in a single click
+- [Complete Readme](https://twitter.com/raf_underscore) - For anyone who does not want the hassle of making a good looking readme page
+- [Rogue](https://github.com/raf-underscore/rogue) - C++ CLI game which implements object orientated programming to create an optimized and fully functional rogue game
+- [Datafire Evorush](https://github.com/raf-underscore/datafire-evorush) - Virtual Reality FPS Game, used to show of technical skill with vr products
+- [Dreamfire](https://github.com/raf-underscore/dreamfire) - 2D Platformer Game, physics based with a full story and intricate levels
+- [Chromashock](https://github.com/raf-underscore/chromashock) - Procedurally generated 2D Roguelike shooter game. Utilizes various procedural algorithms to create a unique and challenging experience
 
 #### ⚒️ Work In Progress
 
-- [Exacto](https://github.com/raf-underscore/exacto) A comprehensive framework for creating social media posts that works beautifully on all platforms, all in Figma 📸
+- Indie Developer Toolkit - A toolkit designed to create a solid foundation for building an amazing career as a solo independent developer.
 
 #### 🤔 Research
 
-- [Unity Physics](https://github.com/raf-underscore/unity-physics-research) Deep dive into Unity's 2D physics engine
+- [Unity Physics](https://github.com/raf-underscore/unity-physics-research) - Deep dive into Unity's 2D physics engine
 
 #
+
 I am always available on all my social media platforms, so shoot me a message if you have any queries ❤️‍🔥
